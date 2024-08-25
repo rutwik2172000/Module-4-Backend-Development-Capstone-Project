@@ -57,13 +57,13 @@ Install dependencies
 Create the Mongdb Database
 
 ```bash
-  node createDatabase.js
+  node src/createDatabase.js
 ```
 
 Run the Project
 
 ```bash
-  node index.js
+  node src/index.js
 ```
 
 
