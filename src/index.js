@@ -12,13 +12,13 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "Get Yotube Subcribers",
+      title: "Get Youtube Subcribers",
       version: "1.0.0",
       description: "A Minimal Express API To Get Youtube Subscribers",
     },
     servers: [
       {
-        url: "https://ab-get-youtube-subscribers.onrender.com",
+        url: "https://module-4-backend-development-capstone.onrender.com",
       },
       {
         url: "http://localhost:3000/",
